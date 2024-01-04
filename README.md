@@ -1,2 +1,2 @@
 # Neuroscience-Team
-Code base for the EEG/ EKG practice of Catholic High School
+Code base for the EEG/ EKG project team of Catholic High School
