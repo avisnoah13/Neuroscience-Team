@@ -16,3 +16,5 @@ Look at the provided example for code implementation
 
 Progress:
 I am working on adding code for the physical on/off siwtch I included in the enclosure.
+
+Repository Author: Noah Avis
